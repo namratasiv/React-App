@@ -1,0 +1,40 @@
+*{
+  color: white;
+  padding: 10px;
+}
+.details{
+  color: black;
+  font-size: 10px;
+  font-family: monospace;
+}
+h1{
+  color: red;
+  text-align: center;
+
+}
+.loading{
+  color: black;
+  text-align: center;
+}
+.error{
+  color:red;
+}
+.searchbar{
+  color: grey;
+  font-size: 20px;
+  padding: 10px;
+}
+input{
+  width: 850px;
+  padding:10px;
+  align-content: center;
+}
+h6{
+  color: black;
+  font-size: 15px;
+  font-style: italic;
+  align-items: center;
+  align-content: center;
+  font-weight: bold;
+
+}
